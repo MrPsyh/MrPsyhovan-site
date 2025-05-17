@@ -1,0 +1,12 @@
+[
+    {
+        "location": "Москва, рандомная камера",
+        "id": 1,
+        "stream": "https://public.ivideon.com/camera/100-Gg2x1fpogUp4sf4K3ruL1P/0/?lang=ru"
+    },
+    {
+        "id": 2,
+        "location": "Москва, Додо Пицца",
+        "stream": "https://public.ivideon.com/camera/100-NWbsZvNYxwCvfBKhj6NoKz/0/?lang=ru"
+    }
+]
